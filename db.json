@@ -1,0 +1,23 @@
+{  
+  "variants": [
+        {
+          "id" : "2001",
+          "quantity": "50",
+          "product": "Cinderella",
+          "href": "/cinderellaStory",
+          "inventory": 100,
+          "description":
+            "In a world of dreams and despair, Cinderella emerges, her life a canvas painted with the cruel strokes of a stepmother's whims. Magic weaves through her story as a mysterious fairy godmother transforms rags into a dazzling gown. Amidst the enchantment of a royal ball, Cinderella's destiny unfurls, proving that courage and kindness can defy the stroke of midnight.",
+        },
+        {
+          "id": "2002",
+          "quantity": 50,
+          "product": "Snow White And The 7 Dwarfs",
+          "inventory": 100,
+          "href": "/snowWhite",
+          "description":
+            "Dive into a world where an enchanted apple holds the key to Snow White's destiny. Escaping her jealous stepmother, she finds solace with seven endearing dwarfs. In this timeless tale of friendship and love, witness the triumph of innocence over envy as Snow White's journey unfolds. Join her in a forest of magic, where 'Heigh-Ho' echoes, and discover a classic fable where true beauty transcends appearances.",
+        }
+  ]
+
+}
